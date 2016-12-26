@@ -1,6 +1,1 @@
-# gitskills
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
+stop fast forward and create a new commit when merging
